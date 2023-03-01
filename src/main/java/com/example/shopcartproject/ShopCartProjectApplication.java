@@ -1,0 +1,13 @@
+package com.example.shopcartproject;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ShopCartProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ShopCartProjectApplication.class, args);
+	}
+
+}
